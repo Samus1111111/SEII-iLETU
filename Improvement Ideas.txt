@@ -1,9 +1,10 @@
 iLETU Improvement Ideas
 
-GUI
-floorplans of the buildings
+GUI (marking items as "read" and being able to star or favorite items)
+floorplans of the buildings (Facilities may have them, but they might be paper copies. Posibility of using Google maps)
 better error messages
-tying in lusa to view/make schedules
+tying in lusa to view/make schedules (there is an xml feed for schedules)
 correct typos
 correct information and links
 translations into different languages
+basic information about the school (and other things) for non-student users
