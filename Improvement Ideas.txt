@@ -8,3 +8,4 @@ correct typos
 correct information and links
 translations into different languages
 basic information about the school (and other things) for non-student users
+add LETU youtube hyperlink on the "about" page
