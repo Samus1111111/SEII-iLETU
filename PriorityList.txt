@@ -1,0 +1,21 @@
+Product Backlog
+Research:
+•	Explore converting RSS feeds into calendars on the Calendar view
+•	Contact facilities about floor plans
+Fixes:
+•	Fix Saga View and change to “Dining Services”
+•	Fix Calendar View
+•	Correct spelling mistakes and name changes
+•	Change email recipient from “Report incorrect hours” button
+Improvements:
+•	Add Schedule view
+•	Add Floor plan view
+•	Change About view to show more general information about LeTourneau
+•	Add functionality to mark articles as “read” on RSS feeds
+•	Add LeTourneau Branding
+•	Change view controller to a Split view
+•	GUI
+o	Change color of tabs to be uniform
+o	Change menu to split view type
+Porting:
+•	TBD
