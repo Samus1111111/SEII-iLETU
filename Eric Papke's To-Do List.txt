@@ -1,0 +1,18 @@
+To-do List
+
+GUI
+    mark items as read (bolded)
+    star favorites
+Floorplans
+    Obtain PDFs if available
+    Make files from blueprints if PDFs not available
+Error Messages
+    For each need, make the message say what the problem is
+Schedule
+    Creating the view
+    Storing the URL after the schedule is set up
+Typos
+Incorrect infromation and links
+Adding better and more info about the school for non-students
+Porting to Android
+    Work top-down (controllers --> views) (needs to be broken up more)
